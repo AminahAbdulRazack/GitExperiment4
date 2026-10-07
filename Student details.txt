@@ -1,4 +1,4 @@
-Name : Aminah Abdul Razack
-USN : 1GC25AI005
-Branch : AIML
-Section : D
+Name: Harshitha
+USN: 1GC25AI017
+Section: C
+Branch: CS
